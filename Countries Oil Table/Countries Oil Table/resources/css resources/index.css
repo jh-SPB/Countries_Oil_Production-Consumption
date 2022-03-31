@@ -1,7 +1,11 @@
+/* Header of ducument with border centered*/
+
 #header-border {
     position: relative;
     left: 28%;
 }
+
+
 
 h2 {
     font-family: 'courier';
@@ -33,9 +37,14 @@ td {
     padding: 5px;
 }
 
+/* Highlights row with color that mouse is hovering over */
+
+
 tr:hover {
     background-color: rgb(255, 164, 164) !important;
 }
+
+/*Turns the backgournd color of every other row another color.*/
 
 tr:nth-child(even) {
     background-color: rgba(193, 230, 252, 0.753);
