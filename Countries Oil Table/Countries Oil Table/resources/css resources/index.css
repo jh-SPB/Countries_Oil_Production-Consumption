@@ -37,6 +37,10 @@ td {
     padding: 5px;
 }
 
+.number-rank {
+    background-color: orange;
+}
+
 /* Highlights row with color that mouse is hovering over */
 
 
